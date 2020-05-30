@@ -1,1 +1,2 @@
-# JS-FOLDER
+# synchronousBallMovement
+Ball moving synchronously
